@@ -6,7 +6,7 @@ package cpu_test
 
 import (
 	"errors"
-	. "github.com/refraction-networking/utls/cpu"
+	. "github.com/unrealyan/utls/cpu"
 	"os"
 	"regexp"
 	"testing"

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/refraction-networking/utls/cpu"
-	"github.com/refraction-networking/utls/testenv"
+	. "github.com/unrealyan/utls/cpu"
+	"github.com/unrealyan/utls/testenv"
 )
 
 func MustHaveDebugOptionsSupport(t *testing.T) {
