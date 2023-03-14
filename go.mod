@@ -1,4 +1,4 @@
-module github.com/refraction-networking/utls
+module github.com/unrealyan/utls
 
 go 1.19
 
